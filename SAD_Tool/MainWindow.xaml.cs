@@ -22,6 +22,7 @@ namespace SAD_Tool
     {
         public MainWindow()
         {
+            // Starting Work Soon.
             InitializeComponent();
         }
     }
